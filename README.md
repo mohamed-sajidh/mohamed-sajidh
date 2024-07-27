@@ -8,6 +8,9 @@ A passionate Node js and flutter developer. I love building scalable backend sys
 - Architecture: MVC, MVVM, Clean
 - State Management: GetX, Provider
 
+## 📫 Get in Touch
+- 
+
 <!--
 **mohamed-sajidh/mohamed-sajidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
