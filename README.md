@@ -9,7 +9,10 @@ A passionate Node js and flutter developer. I love building scalable backend sys
 - State Management: GetX, Provider
 
 ## 📫 Get in Touch
-- 
+- https://www.linkedin.com/in/mohamed-sajidh-145647255/
+- sajidhshaji4@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 <!--
 **mohamed-sajidh/mohamed-sajidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
