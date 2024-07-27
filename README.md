@@ -2,11 +2,11 @@
 A passionate Node js and flutter developer. I love building scalable backend systems and creating beautiful, responsiive front-end applications.
 
 ## 🌟 Skills
-Languages: Javascript, Dart
-Frameworks: Node js, Flutter
-Database: Postgresql, Mongodb, Firebase
-Architecture: MVC, MVVM, Clean
-State Management: GetX, Provider
+- Languages: Javascript, Dart
+- Frameworks: Node js, Flutter
+- Database: Postgresql, Mongodb, Firebase
+- Architecture: MVC, MVVM, Clean
+- State Management: GetX, Provider
 
 <!--
 **mohamed-sajidh/mohamed-sajidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
